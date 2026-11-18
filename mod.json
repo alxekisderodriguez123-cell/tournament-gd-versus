@@ -6,10 +6,10 @@
 		"mac": "2.2081",
 		"ios": "2.2081"
 	},
-	"id": "alxekis.tournament-gd-versus",
+	"id": "beltran17.tournament-gd-versus",
 	"name": "Tournament GD Versus",
 	"version": "v1.0.0",
-	"developer": "Alxekis",
+	"developer": "Beltran17",
 	"description": "Torneos Versus por rondas entre amigos.",
 	"dependencies": {
 		"geode.node-ids": ">=v1.23.3"
